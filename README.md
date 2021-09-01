@@ -11,7 +11,7 @@ Some text here...Some text here...Some text here...Some text here...Some text he
 ## Publications:
 
 ## More...
-* [Detailed Description](http://github.com)
+* [Detailed Description](https://github.com/fabianafmendes/DMSxPersonality/blob/1ed71275b6cc59056c2a546ca6bd07360a14dc87/Protocol/detailedDescription.md)
 * Questionnaire
 * Variables
 * Download Data
