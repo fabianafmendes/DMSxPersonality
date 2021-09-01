@@ -1,14 +1,12 @@
 # Personality and Decision-Making in Software Engineering
-Repository of my Ph.D. research data
+A repository of my Ph.D. research data
 
 ## Author:
 Fabiana Freitas Mendes
 
-## Kewords:
-decision-making, personality, software engineering.
-
 ## Abstract:
-Some text here...
+Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...Some text here...
+### Kewords: decision-making, personality, software engineering.
 
 ## Publications:
 
