@@ -11,6 +11,7 @@ Some text here...Some text here...Some text here...Some text here...Some text he
 ## Publications:
 
 ## More...
-* Detailed Description
+* [Detailed Description](http://github.com)
+* Questionnaire
 * Variables
 * Download Data
