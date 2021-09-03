@@ -1,5 +1,5 @@
 # A Survey on Personality and Decision-Making in Software Engineering
-This is the repository of my Ph.D. research data. Here you can find the survey protocol, including the questionnaires I have used. You can find the data I have collected in the raw mode, in other words, the data is the exact answer for each question. Furthermore, you can find the data after processing and calculation and are ready to use.
+This is the repository of my Ph.D. research data. Here you can find the survey protocol, including the questionnaires I have used and the data I have collected.
 
 ## Main Author:
 Fabiana Freitas Mendes
@@ -20,4 +20,4 @@ Software development involves many activities, among which decision-making is an
 * [Survey Protocol- Details about how the survey was conducted](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
-* Download Data - raw and processed
+* [Download collected data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx)
