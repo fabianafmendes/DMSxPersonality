@@ -2,10 +2,10 @@
 This is the repository of my Ph.D. research data. Here you can find the survey protocol, including the questionnaires I have used and the data I have collected.
 
 ## Main Author:
-Fabiana Freitas Mendes
+[Fabiana Freitas Mendes](https://scholar.google.com.br/citations?hl=en&user=E-ni6HQAAAAJ)
 
 ## Co-Authors:
-Emilia Mendes and Norsaremah Salleh.
+(Emilia Mendes)[https://scholar.google.com.br/citations?hl=en&user=Mz4IbXgAAAAJ] and (Norsaremah Salleh)[https://scholar.google.com.br/citations?hl=en&user=JUDY7OsAAAAJ].
 
 ## Abstract:
 Software development involves many activities, among which decision-making is an essential one. Various factors can impact a decision-making process, and it is essential to understand them to improve the process. Since people make decisions, some human aspects are amongst such impacting factors. One such aspect is the decision maker’s personality. This research aimed to investigate the relationship between decision-making and personality within the context of software project development. We conducted survey research that gathered data about the personalities, decision-making styles, and decision-making self-efficacies of 102 Brazilian software engineers. 
@@ -21,3 +21,4 @@ Software development involves many activities, among which decision-making is an
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
 * [Download collected data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx)
+* If you want more information or some guidance, you can email me (fabiana.freitas.mendes@gmail.com)
