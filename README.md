@@ -21,4 +21,4 @@ Software development involves many activities, among which decision-making is an
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
 * [Download collected data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx)
-* If you want more information or some guidance, you can email me (fabiana.freitas.mendes@gmail.com)
+* If you want more information or some guidance, you can email me: fabiana.freitas.mendes@gmail.com
