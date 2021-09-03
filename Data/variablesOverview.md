@@ -6,7 +6,7 @@
 * **Possible values:** 1 = male; 2 = female; 3 = not declared 
 * **Summary statistics:** 
 
-GENDER    | N       | %
+GENDER    | #       | %
 ------    | ---     | ---------
 male	     | 72	     | 70.6%	
 female    |	30      | 29.4%	
@@ -17,7 +17,7 @@ female    |	30      | 29.4%
 * **Possible values:** 1 = business; 2 = management, 3 = technical; 4 = mixed 
 * **Summary statistics:** 
 
-Role       | N       | %
+Role       | #       | %
 ---------- | ---     | ---------
 business	  | 6	      | 5.9%	
 management |	18      | 17.6%	
@@ -30,7 +30,7 @@ mixed      | 27      | 26.5%
 * **Possible values:** 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
 * **Summary statistics:** 
 
-Age            | N       | %
+Age            | #       | %
 ---------------| ---     | ---------
 less than 25   | 16      | 15.7%	
 26-35          |	59      | 57.8%	
@@ -44,7 +44,7 @@ more than 55   | 4       | 3.9%
 * **Possible values:** 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
 * **Summary statistics:** 
 
-EDL         | N       | %
+EDL         | #       | %
 ----------- | ---     | ---------
 high school | 5       | 4.9%	
 bachelor    | 64      | 62.7%	
@@ -58,7 +58,7 @@ other       | 0       | 0%
 * **Possible values:** 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
 * **Summary statistics:** 
 
-EXP         | N       | %
+EXP         | #       | %
 ----------- | ---     | ---------
 internship  | 4       | 3.9%	
 less than 2 | 7       | 6.9%	
@@ -74,7 +74,7 @@ more than 15| 15      | 14.7%
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:**
 
-DMF_P      | N       | %
+DMF_P      | #       | %
 ---------- | ------- | ------
 never      | 0       | 0%
 rarely	    | 1       | 1.0%	
@@ -89,7 +89,7 @@ always	    | 20	     | 19.6%
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:** 
 
-DMF_L      | N       | %
+DMF_L      | #       | %
 ---------- | ------- | ------
 never      | 2       | 2.0 %
 rarely	    | 13      | 12.7%	
@@ -103,7 +103,7 @@ always	    | 13	     | 12.7%
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:** 
 
-DMF_V      | N       | %
+DMF_V      | #       | %
 ---------- | ------- | ------
 never      | 2       | 2.0%
 rarely	    | 3       | 2.9%	
@@ -260,7 +260,7 @@ Number of valid cases | 102    | 102  | 102   | 102
     * Liberalism (O6)
 * **Summary statistics:**
 
-Personality Facet | Minimum | Maximum | Mean | Std. Dev. | N
+Personality Facet | Minimum | Maximum | Mean | Std. Dev. | Number of Valid Cases
 ----------------- | ------- | ------- | ---- | --------- | --
 A1 | 5 | 20 | 13.71 | 3.32 | 102
 A2 | 10 | 20 | 17.95 | 2.05 | 102
