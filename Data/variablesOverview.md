@@ -46,7 +46,7 @@
 #### Affect Control Efficacy (ACE)
 * **Scale:** interval, bounded
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
-* **Formula to compute the ACE Score: 
+* **Formula to compute the ACE Score:**
  * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
  * ACE = ACE_gross.score/9
 * **Score Range:** 0-100
