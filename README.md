@@ -17,7 +17,7 @@ Software development involves many activities, among which decision-making is an
 * Mendes, F., Mendes, E., Salleh, N., & Oivo, M. (2021). Insights on the relationship between decision-making style and personality in software engineering. Information and Software Technology, 136, 106586.https://doi.org/10.1016/j.infsof.2021.106586.
 ## More Details
 * [Detailed Description - how to use this material?](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/detailedDescription.md)
-* [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/variables.md)
 * [Survey Protocol- Details about how the survey was conducted](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
+* [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
 * Download Data - raw and processed
