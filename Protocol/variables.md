@@ -1,74 +1,124 @@
 # Variables Overview
 
 ### Personal Information Variables
+#### Gender (GENDER)
+* Scale: nominal
+* Possible values: 1 = male; 2 = female; 3 = not declared 
+* Summary statistics:
 
-ID | Variable | Key
----|--------- | ----
-GENDER | gender  | 1 = male; 2 = female; 3 = not declared.
-EDL	 | educational level | 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other.
-AGE | age | 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old.
-EXP | experience | 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years.
+#### Role (ROLE)
+* Scale: nominal
+* Possible values: 1 = business; 2 = management, 3 = technical; 4 = mixed 
+* Summary statistics:
+
+#### Age (AGE)
+* Scale: Ordinal
+* Possible values: 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
+* Summary statistics:
+
+#### Educational Level (EDL)
+* Scale: Ordinal
+* Possible values: 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
+* Summary statistics:
+
+#### Experience (EXP)
+* Scale: Ordinal
+* Possible values: 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
+* Summary statistics:
 
 ### Decision-Making Frequency Variables
-ID	| Variable |	Key
----|--------- | ----
-DMF-P	| Frequency of participation in a decision-making	| 0 = never; 1 = rarely; 2 = sometimes; 3 = very often; 4 = always.
-DMF-L	| Frequency of leading a decision-making	| 0 = never; 1 = rarely; 2 = sometimes; 3 = very often; 4 = always.
-DMF-V	| Frequency of volunteering to lead a decision-making | 0 = never; 1 = rarely; 2 = sometimes; 3 = very often; 4 = always.
+#### Frequency of participation in a decision-making (DMF-P)
+* Scale: ordinal
+* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* Summary statistics:
+
+#### Frequency of leading a decision-making (DMF-L)
+* Scale: ordinal
+* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* Summary statistics:
+
+#### Frequency of volunteering to lead a  decision-making (DMF-V)
+* Scale: ordinal
+* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* Summary statistics:
 
 ### Decision-Making Self-Efficacy Variables
-ID	| Variable |	Range
----|--------- | ----
-ACE	| Affect Control Efficacy	| 0-100
-AIE	| Analytical and Inferential Efficacy	| 0-100
-SIE| Social Influence Efficacy | 0-100
-TCE| Thought Control Efficacy | 0-100
+#### Affect Control Efficacy (ACE)
+* Scale: interval, bounded
+* Range: 0-100
+* Summary statistics:
 
-### Decision-Making Style
-ID	| Variable |	Range
----|--------- | ----
-DMS	| Decision-Making Style| 0-300
+#### Analytical and Inferential Efficacy (AIE)
+* Scale: interval, bounded
+* Range: 0-100
+* Summary statistics:
+
+#### Social Influence Efficacy (SIE)
+* Scale: interval, bounded
+* Range: 0-100
+* Summary statistics:
+
+#### Thought Control Efficacy (TCE)
+* Scale: interval, bounded
+* Range: 0-100
+* Summary statistics:
+
+### Decision-Making Style (DMS)
+* Scale: interval, bounded
+* Range: 0-300
+* Summary statistics:
 
 ### Personality Factors Variables
-ID | Variable | Range
----|----------| -----
-A | Agreeableness | 24-120
-C | Conscientiousness | 24-120
-E | Extraversion | 24-120
-N | Neuroticism | 24-120
-O | Openness | 24-120
+* Scale: interval, bounded
+* Range: 24-124
+* Key:
+  * Agreeableness (A)
+  * Conscientiousness (C)
+  * Extraversion (E)
+  * Neuroticism (N)
+  * Openness (O)
+* Summary statistics:
+
 
 ### Personality Facets Variables
-ID | Variable | Range
----|----------| -----
-A1 | Trust | 4-20
-A2 | Morality | 4-20
-A3 | Altruism | 4-20
-A4 | Cooperation | 4-20
-A5 | Modesty | 4-20
-A6 | Sympathy | 4-20
-C1 | Self-Efficacy | 4-20
-C2 | Orderliness | 4-20
-C3 | Dutifulness | 4-20
-C4 | Achievement-Striving | 4-20
-C5 | Self-Discipline | 4-20
-C6 | Cautiousness | 4-20
-E1 | Friendliness | 4-20
-E2 | Gregariousness | 4-20
-E3 | Assertiveness | 4-20
-E4 | Activity Level | 4-20
-E5 | Excitement-Seeking | 4-20
-E6 | Cheerfulness | 4-20
-N1 | Anxiety | 4-20
-N2 | Anger | 4-20
-N3 | Depression | 4-20
-N4 | Self-Consciousness | 4-20
-N5 | Immoderation | 4-20
-N6 | Vulnerability | 4-20
-O1 | Imagination | 4-20
-O2 | Artistic Interests | 4-20
-O3 | Emotionality | 4-20
-O4 | Adventurousness | 4-20
-O5 | Intellect | 4-20
-O6 | Liberalism | 4-20
+* Scale: interval, bounded
+* Range: 4-20
+* Key:
+  * Agreeableness Facets 
+    * Trust (A1)
+    * Morality (A2)
+    * Altruism (A3)
+    * Cooperation (A4)
+    * Modesty (A5)
+    * Sympathy (A6)
+  * Conscientiousness Facets
+    * Self-Efficacy (C1)
+    * Orderliness (C2)
+    * Dutifulness (C3)
+    * Achievement-Striving (C4)
+    * Self-Discipline (C5)
+    * Cautiousness (C6)
+  * Extraversion Facets
+    * Friendliness (E1)
+    * Gregariousness (E2)
+    * Assertiveness (E3)
+    * Activity Level (E4)
+    * Excitement-Seeking (E5)
+    * Cheerfulness (E6)
+  * Neuroticism Facets
+    * Anxiety (N1)
+    * Anger (N2)
+    * Depression (N3)
+    * Self-Consciousness (N4)
+    * Immoderation (N5)
+    * Vulnerability (N6)
+  * Openness Facets
+    * Imagination (O1)
+    * Artistic Interests (O2)
+    * Emotionality (O3)
+    * Adventurousness (O4)
+    * Intellect (O5)
+    * Liberalism (O6)
+* Summary statistics
+
 
