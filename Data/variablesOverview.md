@@ -10,7 +10,7 @@ GENDER    | N       | %
 ------    | ---     | ---------
 male	     | 72	     | 70.6%	
 female    |	30      | 29.4%	
-**total** | **102** | **100%**
+**Number of valid cases** | **102** | - 
 
 #### Role (ROLE)
 * **Scale:** nominal
@@ -23,7 +23,7 @@ business	  | 6	      | 5.9%
 management |	18      | 17.6%	
 technical  | 51      | 50.0%
 mixed      | 27      | 26.5%
-**total**  | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 #### Age (AGE)
 * **Scale:** Ordinal
@@ -37,7 +37,7 @@ less than 25   | 16      | 15.7%
 36-45          | 14      | 13.7%
 45-55          | 9       | 8.8%
 more than 55   | 4       | 3.9%
-**total**      | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 #### Educational Level (EDL)
 * **Scale:** Ordinal
@@ -51,7 +51,7 @@ bachelor    | 64      | 62.7%
 master      | 24      | 23.5%
 doctor      | 9       | 8.8%
 other       | 0       | 0%
-**total**   | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 #### Experience (EXP)
 * **Scale:** Ordinal
@@ -66,7 +66,7 @@ less than 2 | 7       | 6.9%
 6-10        | 20      | 19.6%
 11-15       | 20      | 19.6%
 more than 15| 15      | 14.7%
-**total**   | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 ### Decision-Making Frequency Variables
 #### Frequency of participation in a decision-making (DMF-P)
@@ -81,7 +81,7 @@ rarely	    | 1       | 1.0%
 sometimes	 | 24	     | 23.5%	
 very often	| 57	     | 55.9%	
 always	    | 20	     | 19.6%	
-**total**  | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 
 #### Frequency of leading a decision-making (DMF-L)
@@ -96,7 +96,7 @@ rarely	    | 13      | 12.7%
 sometimes	 | 32	     | 31.4%	
 very often	| 42	     | 41.2%	
 always	    | 13	     | 12.7%	
-**total**  | **102** | **100%**
+**Number of valid cases** | **102** | -
 
 #### Frequency of volunteering to lead a  decision-making (DMF-V)
 * **Scale: ordinal**
@@ -110,7 +110,7 @@ rarely	    | 3       | 2.9%
 sometimes	 | 27	     | 26.5%	
 very often	| 42	     | 41.2.9%	
 always	    | 0	      | 0%	
-**total**  | **74** | **100%**
+**Number of valid cases** | **102** | -
 
 ### Decision-Making Self-Efficacy Variables
 #### Affect Control Efficacy (ACE)
@@ -121,7 +121,13 @@ always	    | 0	      | 0%
   * ACE = ACE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+  * Minimum: 41.11
+  * Maximum: 96.67
+  * Mean: 71.72
+  * Std. Deviation: 12.07
+  * Number of valid cases: 102
+
 
 #### Analytical and Inferential Efficacy (AIE)
 * **Scale:** interval, bounded
@@ -131,7 +137,12 @@ always	    | 0	      | 0%
   * AIE = AIE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+  * Minimum: 	36.36
+  * Maximum:	100.00
+  * Mean:	73.74
+  * Std. Deviation:	11.63
+  * Number of valid cases:	102
 
 #### Social Influence Efficacy (SIE)
 * **Scale:** interval, bounded
@@ -141,7 +152,12 @@ always	    | 0	      | 0%
   * SIE = SIE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+  * Minimum:12.00
+  * Maximum:	94.00
+  * Mean:	55.16
+  * Std. Deviation:	17.81
+  * Number of valid cases:	102 
 
 #### Thought Control Efficacy (TCE)
 * **Scale:** interval, bounded
@@ -151,7 +167,13 @@ always	    | 0	      | 0%
   * TCE = TCE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+  * Minimum:	16.00
+  * Maximum:	80.00
+  * Mean:	47.88
+  * Std. Deviation:	14.99
+  * Number of valid cases:	102
+ 
 
 ### Decision-Making Style (DMS)
 * **Scale:** interval, bounded
@@ -167,7 +189,13 @@ GII | 5 | 10
 
 * **Formula to compute the DMS Score:** DMS = sum of the chosen alternative score of each case
 * **Score Range:** 0-300
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+  * Minimum:	77.00
+  * Maximum:	266.00
+  * Mean:	173.59
+  * Std. Deviation:	41.11
+  * Number of valid cases:	63
+ 
 
 ### Personality Factors Variables
 * **Scale:** interval, bounded
@@ -179,7 +207,15 @@ GII | 5 | 10
   * Extraversion (E)
   * Neuroticism (N)
   * Openness (O)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+Measure   | A 	   | C 	   | E 	   | N
+--------- | --    | --    | --    | -- 
+Minimum   | 48.00 | 59.00 | 45.00 | 36.00
+Maximum   | 114.00| 112.00| 99.00 | 99.00
+Mea       | 91.33 | 91.08 | 76.95 | 65.89
+Std. Dev. | 11.48 | 11.47 | 11.74 | 13.15
+Number of valid cases | 102    | 102  | 102   | 102
 
 
 ### Personality Facets Variables
@@ -222,4 +258,37 @@ GII | 5 | 10
     * Adventurousness (O4)
     * Intellect (O5)
     * Liberalism (O6)
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+
+Personality Facet | Minimum | Maximum | Mean | Std. Dev. | N
+----------------- | ------- | ------- | ---- | --------- | --
+A1 | 5 | 20 | 13.71 | 3.32 | 102
+A2 | 10 | 20 | 17.95 | 2.05 | 102
+A3 | 7 | 20 | 16.07 | 2.78 | 102
+A4 | 7 | 20 | 17.13 | 2.90 | 102
+A5 | 4 | 19 | 11.50 | 3.23 | 102
+A6 | 4 | 20 | 14.98 | 3.11 | 102
+C1 | 8 | 20 | 15.19 | 2.46 | 102
+C2 | 5 | 20 | 14.57 | 4.01 | 102
+C3 | 10 | 20 | 16.58 | 2.23 | 102
+C4 | 11 | 20 | 16.44 | 2.21 | 102
+C5 | 4 | 20 | 13.93 | 2.87 | 102
+C6 | 4 | 20 | 14.37 | 3.69 | 102
+E1 | 6 | 20 | 14.33 | 3.33 | 102
+E2 | 4 | 19 | 10.84 | 3.63 | 102
+E3 | 6 | 20 | 14.63 | 3.04 | 102
+E4 | 7 | 19 | 13.11 | 2.59 | 102
+E5 | 4 | 17 | 8.89 | 3.00 | 102
+E6 | 8 | 20 | 15.15 | 2.48 | 102
+N1 | 6 | 19 | 12.69 | 3.22 | 102
+N2 | 4 | 19 | 9.95 | 3.99 | 102
+N3 | 4 | 20 | 8.25 | 3.37 | 102
+N4 | 7 | 20 | 12.91 | 2.76 | 102
+N5 | 6 | 18 | 10.95 | 2.67 | 102
+N6 | 5 | 19 | 11.14 | 2.88 | 102
+O1 | 8 | 20 | 14.75 | 2.81 | 102
+O2 | 4 | 20 | 14.03 | 3.41 | 102
+O3 | 6 | 20 | 14.41 | 3.10 | 102
+O4 | 5 | 19 | 12.39 | 3.08 | 102
+O5 | 6 | 20 | 14.32 | 3.08 | 102
+O6 | 4 | 19 | 12.50 | 2.65 | 102
