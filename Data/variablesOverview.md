@@ -4,43 +4,113 @@
 #### Gender (GENDER)
 * **Scale:** nominal
 * **Possible values:** 1 = male; 2 = female; 3 = not declared 
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+GENDER    | N       | %
+------    | ---     | ---------
+male	     | 72	     | 70.6%	
+female    |	30      | 29.4%	
+**total** | **102** | **100%**
 
 #### Role (ROLE)
 * **Scale:** nominal
 * **Possible values:** 1 = business; 2 = management, 3 = technical; 4 = mixed 
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+Role       | N       | %
+---------- | ---     | ---------
+business	  | 6	      | 5.9%	
+management |	18      | 17.6%	
+technical  | 51      | 50.0%
+mixed      | 27      | 26.5%
+**total**  | **102** | **100%**
 
 #### Age (AGE)
 * **Scale:** Ordinal
 * **Possible values:** 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+Age            | N       | %
+---------------| ---     | ---------
+less than 25   | 16      | 15.7%	
+26-35          |	59      | 57.8%	
+36-45          | 14      | 13.7%
+45-55          | 9       | 8.8%
+more than 55   | 4       | 3.9%
+**total**      | **102** | **100%**
 
 #### Educational Level (EDL)
 * **Scale:** Ordinal
 * **Possible values:** 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+EDL         | N       | %
+----------- | ---     | ---------
+high school | 5       | 4.9%	
+bachelor    | 64      | 62.7%	
+master      | 24      | 23.5%
+doctor      | 9       | 8.8%
+other       | 0       | 0%
+**total**   | **102** | **100%**
 
 #### Experience (EXP)
 * **Scale:** Ordinal
 * **Possible values:** 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+EXP         | N       | %
+----------- | ---     | ---------
+internship  | 4       | 3.9%	
+less than 2 | 7       | 6.9%	
+2-5         | 36      | 35.3%
+6-10        | 20      | 19.6%
+11-15       | 20      | 19.6%
+more than 15| 15      | 14.7%
+**total**   | **102** | **100%**
 
 ### Decision-Making Frequency Variables
 #### Frequency of participation in a decision-making (DMF-P)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:** (TO DO)
+* **Summary statistics:**
+
+DMF_P      | N       | %
+---------- | ------- | ------
+never      | 0       | 0%
+rarely	    | 1       | 1.0%	
+sometimes	 | 24	     | 23.5%	
+very often	| 57	     | 55.9%	
+always	    | 20	     | 19.6%	
+**total**  | **102** | **100%**
+
 
 #### Frequency of leading a decision-making (DMF-L)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+DMF_L      | N       | %
+---------- | ------- | ------
+never      | 2       | 2.0 %
+rarely	    | 13      | 12.7%	
+sometimes	 | 32	     | 31.4%	
+very often	| 42	     | 41.2%	
+always	    | 13	     | 12.7%	
+**total**  | **102** | **100%**
 
 #### Frequency of volunteering to lead a  decision-making (DMF-V)
 * **Scale: ordinal**
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:** (TO DO)
+* **Summary statistics:** 
+
+DMF_V      | N       | %
+---------- | ------- | ------
+never      | 2       | 2.0%
+rarely	    | 3       | 2.9%	
+sometimes	 | 27	     | 26.5%	
+very often	| 42	     | 41.2.9%	
+always	    | 0	      | 0%	
+**total**  | **74** | **100%**
 
 ### Decision-Making Self-Efficacy Variables
 #### Affect Control Efficacy (ACE)
