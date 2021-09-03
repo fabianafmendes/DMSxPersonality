@@ -32,7 +32,7 @@ Professionals who work with software enngineering related activities, according 
 * mixed
 
 #### Time Method 
-(TO DO)
+Cross-section
 
 #### Sampling Procedure
 Self-filling form
@@ -51,16 +51,13 @@ Most to the data available is in English only, except the questionnaire which ca
 1.0
 
 #### Released Datasets
-(TO DO)
-
-#### Completeness of Data Restrictions
-(TO DO)
+[2019-Brazilian-data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx) 
 
 #### Citation Requirement
-The material and its author must be referred to in all publications and presentations in which the material is used. 
+The material and their authors must be referred to in all publications and presentations in which the material is used. 
 
 #### Bibliographical Citation
-(TO DO)
+Mendes, F., Mendes, E., Salleh, N. (2021). A Survey on Personality and Decision-Making in Software Engineering [dataset]. Version 1.0. https://github.com/fabianafmendes/DMSxPersonality.
 
 #### Disclaimer
 The original author of the material and the data archive are not responsible for the results and interpretations produced in the further use of the material.
