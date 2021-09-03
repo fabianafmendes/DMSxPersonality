@@ -2,88 +2,121 @@
 
 ### Personal Information Variables
 #### Gender (GENDER)
-* Scale: nominal
-* Possible values: 1 = male; 2 = female; 3 = not declared 
-* Summary statistics:
+* **Scale:** nominal
+* **Possible values:** 1 = male; 2 = female; 3 = not declared 
+* **Summary statistics:**
 
 #### Role (ROLE)
-* Scale: nominal
-* Possible values: 1 = business; 2 = management, 3 = technical; 4 = mixed 
-* Summary statistics:
+* **Scale:** nominal
+* **Possible values:** 1 = business; 2 = management, 3 = technical; 4 = mixed 
+* **Summary statistics:**
 
 #### Age (AGE)
-* Scale: Ordinal
-* Possible values: 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
-* Summary statistics:
+* **Scale:** Ordinal
+* **Possible values:** 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
+* **Summary statistics:**
 
 #### Educational Level (EDL)
-* Scale: Ordinal
-* Possible values: 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
-* Summary statistics:
+* **Scale:** Ordinal
+* **Possible values:** 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
+* **Summary statistics:**
 
 #### Experience (EXP)
-* Scale: Ordinal
-* Possible values: 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
-* Summary statistics:
+* **Scale:** Ordinal
+* **Possible values:** 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
+* **Summary statistics:**
 
 ### Decision-Making Frequency Variables
 #### Frequency of participation in a decision-making (DMF-P)
-* Scale: ordinal
-* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* Summary statistics:
+* **Scale:** ordinal
+* **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* **Summary statistics:**
 
 #### Frequency of leading a decision-making (DMF-L)
-* Scale: ordinal
-* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* Summary statistics:
+* **Scale:** ordinal
+* **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* **Summary statistics:**
 
 #### Frequency of volunteering to lead a  decision-making (DMF-V)
-* Scale: ordinal
-* Possible values:  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* Summary statistics:
+* **Scale: ordinal**
+* **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
+* **Summary statistics:**
 
 ### Decision-Making Self-Efficacy Variables
 #### Affect Control Efficacy (ACE)
-* Scale: interval, bounded
-* Range: 0-100
-* Summary statistics:
+* **Scale:** interval, bounded
+* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Formula to compute the ACE Score: 
+ * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
+ * ACE = ACE_gross.score/9
+* **Score Range:** 0-100
+* **Questionnaire items related to this variable:**
+* **Summary statistics:**
 
 #### Analytical and Inferential Efficacy (AIE)
-* Scale: interval, bounded
-* Range: 0-100
+* **Scale:** interval, bounded
+* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Formula to compute the AIE Score:**
+ * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
+ * AIE = AIE_gross.score/9
+* **Score Range:** 0-100
+* **Questionnaire items related to this variable:**
 * Summary statistics:
 
 #### Social Influence Efficacy (SIE)
-* Scale: interval, bounded
-* Range: 0-100
-* Summary statistics:
+* **Scale:** interval, bounded
+* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Formula to compute the SIE Score:**
+ * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
+ * SIE = SIE_gross.score/9
+* **Score Range:** 0-100
+* **Questionnaire items related to this variable:**
+* **Summary statistics:**
 
 #### Thought Control Efficacy (TCE)
-* Scale: interval, bounded
-* Range: 0-100
-* Summary statistics:
+* **Scale:** interval, bounded
+* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Formula to compute the TCE Score:**
+ * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
+ * TCE = TCE_gross.score/9
+* **Score Range:** 0-100
+* **Questionnaire items related to this variable:**
+* **Summary statistics:**
 
 ### Decision-Making Style (DMS)
-* Scale: interval, bounded
-* Range: 0-300
-* Summary statistics:
+* **Scale:** interval, bounded
+* **Possible values:** for each case in the questionnaire, the respodent can choose one of the following alternatives: 
+
+Alternative | Value showed in the data file | Value added in the final score
+----------- |------------------------------ |-------------------------------
+AI  | 1 | 0
+AII | 2 | 1
+CI  | 3 | 5
+CII | 4 | 8
+GII | 5 | 10
+
+* **Formula to compute the DMS Score:** DMS = sum of the chosen alternative score of each case
+* **Score Range:** 0-300
+* **Summary statistics:**
 
 ### Personality Factors Variables
-* Scale: interval, bounded
-* Range: 24-124
-* Key:
+* **Scale:** interval, bounded
+* [Instructions about how to compute the score](https://ipip.ori.org/newScoringInstructions.htm)
+* **Range:** 24-124
+* **Key:**
   * Agreeableness (A)
   * Conscientiousness (C)
   * Extraversion (E)
   * Neuroticism (N)
   * Openness (O)
-* Summary statistics:
+* **Summary statistics:**
 
 
 ### Personality Facets Variables
-* Scale: interval, bounded
-* Range: 4-20
-* Key:
+* **Scale:** interval, bounded
+* [Instructions about how to compute the score](https://ipip.ori.org/newScoringInstructions.htm)
+* **Range:** 4-20
+* **Key:**
   * Agreeableness Facets 
     * Trust (A1)
     * Morality (A2)
