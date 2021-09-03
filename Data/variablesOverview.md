@@ -27,7 +27,7 @@ mixed      | 27      | 26.5%
 
 #### Age (AGE)
 * **Scale:** Ordinal
-* **Possible values:** 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
+* **Possible values:** 1 = less than 25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = more than 55 years-old 
 * **Summary statistics:** 
 
 Age            | #       | %
@@ -55,7 +55,7 @@ other       | 0       | 0%
 
 #### Experience (EXP)
 * **Scale:** Ordinal
-* **Possible values:** 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
+* **Possible values:** 1 = internship, 2 = less than 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = more than 15 years
 * **Summary statistics:** 
 
 EXP         | #       | %
