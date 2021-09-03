@@ -46,9 +46,9 @@
 #### Affect Control Efficacy (ACE)
 * **Scale:** interval, bounded
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
-* **Formula to compute the ACE Score:**
- * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
- * ACE = ACE_gross.score/9
+* **Formula to compute the ACE Score:** 
+  * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
+  * ACE = ACE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
 * **Summary statistics:** (TO DO)
@@ -57,8 +57,8 @@
 * **Scale:** interval, bounded
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the AIE Score:**
- * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
- * AIE = AIE_gross.score/9
+  * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
+  * AIE = AIE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
 * **Summary statistics:** (TO DO)
@@ -67,8 +67,8 @@
 * **Scale:** interval, bounded
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the SIE Score:**
- * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
- * SIE = SIE_gross.score/9
+  * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
+  * SIE = SIE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
 * **Summary statistics:** (TO DO)
@@ -77,8 +77,8 @@
 * **Scale:** interval, bounded
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the TCE Score:**
- * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
- * TCE = TCE_gross.score/9
+  * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
+  * TCE = TCE_gross.score/9
 * **Score Range:** 0-100
 * **Questionnaire items related to this variable:** (TO DO)
 * **Summary statistics:** (TO DO)
