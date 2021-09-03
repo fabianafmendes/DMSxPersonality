@@ -4,43 +4,43 @@
 #### Gender (GENDER)
 * **Scale:** nominal
 * **Possible values:** 1 = male; 2 = female; 3 = not declared 
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Role (ROLE)
 * **Scale:** nominal
 * **Possible values:** 1 = business; 2 = management, 3 = technical; 4 = mixed 
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Age (AGE)
 * **Scale:** Ordinal
 * **Possible values:** 1 = <25 years-old; 2 = 26-35 years-old; 3 = 36-45 years-old; 4 = 45-55 years-old; 5 = > 55 years-old 
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Educational Level (EDL)
 * **Scale:** Ordinal
 * **Possible values:** 1 = high school; 2 = bachelor; 3 = master; 4 = doctor; 5 = other
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Experience (EXP)
 * **Scale:** Ordinal
 * **Possible values:** 1 = internship, 2 = < 2 years, 3 = 2-5 years; 4 = 6-10 years; 5 = 11-15 years; 6 = > 15 years
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 ### Decision-Making Frequency Variables
 #### Frequency of participation in a decision-making (DMF-P)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Frequency of leading a decision-making (DMF-L)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 #### Frequency of volunteering to lead a  decision-making (DMF-V)
 * **Scale: ordinal**
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 ### Decision-Making Self-Efficacy Variables
 #### Affect Control Efficacy (ACE)
@@ -50,8 +50,8 @@
  * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
  * ACE = ACE_gross.score/9
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:**
-* **Summary statistics:**
+* **Questionnaire items related to this variable:** (TO DO)
+* **Summary statistics:** (TO DO)
 
 #### Analytical and Inferential Efficacy (AIE)
 * **Scale:** interval, bounded
@@ -60,8 +60,8 @@
  * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
  * AIE = AIE_gross.score/9
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:**
-* Summary statistics:
+* **Questionnaire items related to this variable:** (TO DO)
+* **Summary statistics:** (TO DO)
 
 #### Social Influence Efficacy (SIE)
 * **Scale:** interval, bounded
@@ -70,8 +70,8 @@
  * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
  * SIE = SIE_gross.score/9
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:**
-* **Summary statistics:**
+* **Questionnaire items related to this variable:** (TO DO)
+* **Summary statistics:** (TO DO)
 
 #### Thought Control Efficacy (TCE)
 * **Scale:** interval, bounded
@@ -80,8 +80,8 @@
  * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
  * TCE = TCE_gross.score/9
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:**
-* **Summary statistics:**
+* **Questionnaire items related to this variable:** (TO DO)
+* **Summary statistics:** (TO DO)
 
 ### Decision-Making Style (DMS)
 * **Scale:** interval, bounded
@@ -97,7 +97,7 @@ GII | 5 | 10
 
 * **Formula to compute the DMS Score:** DMS = sum of the chosen alternative score of each case
 * **Score Range:** 0-300
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 ### Personality Factors Variables
 * **Scale:** interval, bounded
@@ -109,7 +109,7 @@ GII | 5 | 10
   * Extraversion (E)
   * Neuroticism (N)
   * Openness (O)
-* **Summary statistics:**
+* **Summary statistics:** (TO DO)
 
 
 ### Personality Facets Variables
@@ -152,4 +152,4 @@ GII | 5 | 10
     * Adventurousness (O4)
     * Intellect (O5)
     * Liberalism (O6)
-* Summary statistics
+* **Summary statistics:** (TO DO)
