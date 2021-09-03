@@ -120,7 +120,7 @@ always	    | 0	      | 0%
   * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
   * ACE = ACE_gross.score/9
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:** (TO DO)
+* **Questionnaire items related to this variable:** 1, 2, 6, 7, 8, 9, 15, 16, 17.
 * **Summary statistics:**
   * Minimum: 41.11
   * Maximum: 96.67
@@ -134,9 +134,10 @@ always	    | 0	      | 0%
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the AIE Score:**
   * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
-  * AIE = AIE_gross.score/9
+  * AIE = AIE_gross.score/11
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:** (TO DO)
+* **Questionnaire items related to this variable:** 10, 11, 12, 13, 18, 19, 20, 22, 21, 23, 27
+
 * **Summary statistics:** 
   * Minimum: 	36.36
   * Maximum:	100.00
@@ -149,9 +150,9 @@ always	    | 0	      | 0%
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the SIE Score:**
   * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
-  * SIE = SIE_gross.score/9
+  * SIE = SIE_gross.score/5
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:** (TO DO)
+* **Questionnaire items related to this variable:** 24, 25, 26, 28, 29
 * **Summary statistics:**
   * Minimum:12.00
   * Maximum:	94.00
@@ -164,9 +165,9 @@ always	    | 0	      | 0%
 * **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
 * **Formula to compute the TCE Score:**
   * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
-  * TCE = TCE_gross.score/9
+  * TCE = TCE_gross.score/5
 * **Score Range:** 0-100
-* **Questionnaire items related to this variable:** (TO DO)
+* **Questionnaire items related to this variable:** 3, 4, 5, 14, 30
 * **Summary statistics:**
   * Minimum:	16.00
   * Maximum:	80.00
