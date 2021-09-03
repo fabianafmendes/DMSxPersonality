@@ -29,4 +29,46 @@ ID	| Variable |	Range
 ---|--------- | ----
 DMS	| Decision-Making Style| 0-300
 
+### Personality Factors Variables
+ID | Variable | Range
+---|----------| -----
+A | Agreeableness | 24-120
+C | Conscientiousness | 24-120
+E | Extraversion | 24-120
+N | Neuroticism | 24-120
+O | Openness | 24-120
+
+### Personality Facets Variables
+ID | Variable | Range
+---|----------| -----
+A1 | Trust | 4-20
+A2 | Morality | 4-20
+A3 | Altruism | 4-20
+A4 | Cooperation | 4-20
+A5 | Modesty | 4-20
+A6 | Sympathy | 4-20
+C1 | Self-Efficacy | 4-20
+C2 | Orderliness | 4-20
+C3 | Dutifulness | 4-20
+C4 | Achievement-Striving | 4-20
+C5 | Self-Discipline | 4-20
+C6 | Cautiousness | 4-20
+E1 | Friendliness | 4-20
+E2 | Gregariousness | 4-20
+E3 | Assertiveness | 4-20
+E4 | Activity Level | 4-20
+E5 | Excitement-Seeking | 4-20
+E6 | Cheerfulness | 4-20
+N1 | Anxiety | 4-20
+N2 | Anger | 4-20
+N3 | Depression | 4-20
+N4 | Self-Consciousness | 4-20
+N5 | Immoderation | 4-20
+N6 | Vulnerability | 4-20
+O1 | Imagination | 4-20
+O2 | Artistic Interests | 4-20
+O3 | Emotionality | 4-20
+O4 | Adventurousness | 4-20
+O5 | Intellect | 4-20
+O6 | Liberalism | 4-20
 
