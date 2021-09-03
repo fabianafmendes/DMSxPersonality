@@ -5,7 +5,7 @@ This is the repository of my Ph.D. research data. Here you can find the survey p
 [Fabiana Freitas Mendes](https://scholar.google.com.br/citations?hl=en&user=E-ni6HQAAAAJ)
 
 ## Co-Authors:
-(Emilia Mendes)[https://scholar.google.com.br/citations?hl=en&user=Mz4IbXgAAAAJ] and (Norsaremah Salleh)[https://scholar.google.com.br/citations?hl=en&user=JUDY7OsAAAAJ].
+[Emilia Mendes](https://scholar.google.com.br/citations?hl=en&user=Mz4IbXgAAAAJ) and [Norsaremah Salleh](https://scholar.google.com.br/citations?hl=en&user=JUDY7OsAAAAJ).
 
 ## Abstract:
 Software development involves many activities, among which decision-making is an essential one. Various factors can impact a decision-making process, and it is essential to understand them to improve the process. Since people make decisions, some human aspects are amongst such impacting factors. One such aspect is the decision maker’s personality. This research aimed to investigate the relationship between decision-making and personality within the context of software project development. We conducted survey research that gathered data about the personalities, decision-making styles, and decision-making self-efficacies of 102 Brazilian software engineers. 
