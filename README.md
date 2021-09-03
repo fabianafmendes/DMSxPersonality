@@ -18,6 +18,6 @@ Software development involves many activities, among which decision-making is an
 ## More Details
 * [Detailed Description - how to use this material?](https://github.com/fabianafmendes/DMSxPersonality/blob/1ed71275b6cc59056c2a546ca6bd07360a14dc87/Protocol/detailedDescription.md)
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/1ed71275b6cc59056c2a546ca6bd07360a14dc87/Protocol/variables.md)
-* [Survey Protocol](https://github.com/fabianafmendes/DMSxPersonality/blob/852c6447cc57cb7bd53e2fbb3e47ff83848b9376/Survey%20Protocol.pdf) - Details about how the survey was conducted
+* [Survey Protocol- Details about how the survey was conducted](https://github.com/fabianafmendes/DMSxPersonality/blob/852c6447cc57cb7bd53e2fbb3e47ff83848b9376/Survey%20Protocol.pdf)
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/852c6447cc57cb7bd53e2fbb3e47ff83848b9376/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/852c6447cc57cb7bd53e2fbb3e47ff83848b9376/Questionnaire%20in%20English.docx) languages
 * Download Data - raw and processed
