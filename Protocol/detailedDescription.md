@@ -1,61 +1,66 @@
 # Detailed Description
 
-### Study Title: 
+#### Study Title: 
 Decision-Making and Personality in Software Engineering
 
-### Data Type:
+#### Data Type:
 Quantitative
 
-### Author:
+#### Author:
 Fabiana Freitas Mendes
 
-### Topic Classification:
+#### Topic Classification:
 Software Engineering
 
-### Access
+#### Access
 This material is available for research, teaching and study. 
 
-### Data Collector
+#### Data Collector
 Fabiana Freitas Mendes
 
-### Time Period
+#### Time Period
 August to October 2018
 
-### Nation
+#### Nation
 Brazil
 
-### Universe
-Population Description (TO DO)
+#### Universe
+Professionals who work with software enngineering related activities, according to the following classification:
+* business-related activities
+* management-related activities 
+* technical-related activities
+* mixed
 
-### Time Method 
+#### Time Method 
 (TO DO)
 
-### Sampling Procedure
+#### Sampling Procedure
 Self-filling form
 
-### Collection Mode
+#### Collection Mode
 Structured form 
 
-### Data File Language
-Most to the data available is in English onlu, except the questionnaire which can be found in English and Brazilian Portuguese
+#### Data File Language
+Most to the data available is in English only, except the questionnaire which can be found in English and Brazilian Portuguese
 
-### Number of Cases and Variables
-(TO DO)
+#### NumberVariables and datapoints
+* 47 variables
+* 120 datapoints for all variables except "Decision-Making Style" that has 63 datapoints
 
-### Data Version
+#### Data Version
 1.0
 
-### Released Datasets
+#### Released Datasets
 (TO DO)
 
-### Completeness of Data Restrictions
-The variables 
+#### Completeness of Data Restrictions
+(TO DO)
 
-### Citation Requirement
+#### Citation Requirement
 The material and its author must be referred to in all publications and presentations in which the material is used. 
 
-### Bibliographical Citation
+#### Bibliographical Citation
 (TO DO)
 
-### Disclaimer
+#### Disclaimer
 The original author of the material and the data archive are not responsible for the results and interpretations produced in the further use of the material.
