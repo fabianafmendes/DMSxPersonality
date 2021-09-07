@@ -28,4 +28,4 @@ Software development involves many activities, among which decision-making is an
 ## Citation Requirement
 This material and their authors must be referred to in all publications and presentations in which this material is used. 
 
-#### Do you need more information or guidance? E-mail me: fabiana.freitas.mendes@gmail.com
+**Do you need more information or guidance?** E-mail me: fabiana.freitas.mendes@gmail.com
