@@ -1,5 +1,5 @@
 # A Survey on Personality and Decision-Making in Software Engineering
-This is the repository of my Ph.D. research data. Here you can find the survey protocol, including the questionnaires I have used and the data I have collected.
+In this repository, you can find details about a survey, including the survey protocol and the questionnaires used to collect data. Furthermore, you can have access to the collected data, including instructions about how to use it.
 
 ## Main Author:
 [Fabiana Freitas Mendes](https://scholar.google.com.br/citations?hl=en&user=E-ni6HQAAAAJ)
