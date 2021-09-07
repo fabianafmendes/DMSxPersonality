@@ -75,11 +75,11 @@ Structured form
 #### Data File Language
 Most to the data available is in English only, except the questionnaire which can be found in English and Brazilian Portuguese
 
-#### NumberVariables and datapoints
+#### Number of Variables and Datapoints
 * 47 variables
 * 120 datapoints for all variables except "Decision-Making Style" that has 63 datapoints
 
-### Strategies to deal with potential survey errors
+#### Strategies to Deal with Potential Survey Errors
 
 In terms of **coverage bias**, the main problem of this survey population is the geographical distribution. The whole survey population is Brazilian, although some of the participants work in other countries. Another coverage problem is that most of the survey population hold technical roles. These characteristics can impact the generalization power of the survey results.
 
