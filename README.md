@@ -16,11 +16,13 @@ Software development involves many activities, among which decision-making is an
 * Mendes, Fabiana (2021). Insights from personality and decision-making in software engineering context. Ph.D. Thesis. University of Oulu. ISBN: 9789526229423. http://urn.fi/urn:isbn:9789526229423.
 * Mendes, F., Mendes, E., Salleh, N., & Oivo, M. (2021). Insights on the relationship between decision-making style and personality in software engineering. Information and Software Technology, 136, 106586.https://doi.org/10.1016/j.infsof.2021.106586.
 
-## More details about survey protocol:
+## Replication package
+Details about how to replicate this study:
 * [Survey Protocol](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
 
-## More details about the data file:
+## Data package
+Details about how to use the data we have already collected:
 * [Detailed Description](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/detailedDescription.md)
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
 * [Download collected data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx)
