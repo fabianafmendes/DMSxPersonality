@@ -12,9 +12,6 @@ Fabiana Freitas Mendes
 ### Access
 This material is available for research, teaching and study. 
 
-### Data Collector
-Fabiana Freitas Mendes
-
 ### Survey timeline
 This survey was executed from March 2018 to June 2020, as shown in the timeline bellow.
 
