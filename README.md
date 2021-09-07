@@ -15,10 +15,13 @@ Software development involves many activities, among which decision-making is an
 ## Publications:
 * Mendes, Fabiana (2021). Insights from personality and decision-making in software engineering context. Ph.D. Thesis. University of Oulu. ISBN: 9789526229423. http://urn.fi/urn:isbn:9789526229423.
 * Mendes, F., Mendes, E., Salleh, N., & Oivo, M. (2021). Insights on the relationship between decision-making style and personality in software engineering. Information and Software Technology, 136, 106586.https://doi.org/10.1016/j.infsof.2021.106586.
-## More Details
-* [Detailed Description - how to use this material?](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/detailedDescription.md)
-* [Survey Protocol- Details about how the survey was conducted](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
+
+## More Details about survey protocol:
+* [Survey Protocol](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
 * Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
+
+## More Details about the data collected:
+* [Detailed Description](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/detailedDescription.md)
 * [Variables Description - overview of each variable of this study](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/variablesOverview.md)
 * [Download collected data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx)
 * If you want more information or some guidance, you can email me: fabiana.freitas.mendes@gmail.com
