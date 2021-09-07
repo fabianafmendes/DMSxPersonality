@@ -1,5 +1,5 @@
 # A Survey on Personality and Decision-Making in Software Engineering
-In this repository you can find details about a survey, including the survey protocol and the questionnaires in Brazilian Poruguese and English. Furthermore, you can have access to the collected data, including instructions about how to use it.
+In this repository you can find details about a survey, including the survey protocol and the questionnaires in Brazilian Poruguese and English. Furthermore, you can have access to the collected data, including instructions about how to use it. All this material is available for research, teaching and study. We are not responsible for the results and interpretations produced in the further use of the material.
 
 ## Main Author:
 [Fabiana Freitas Mendes](https://scholar.google.com.br/citations?hl=en&user=E-ni6HQAAAAJ)
