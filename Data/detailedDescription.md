@@ -1,24 +1,21 @@
 # Detailed Description
 
-#### Study Title: 
+### Study Title: 
 Decision-Making and Personality in Software Engineering
 
-#### Data Type:
+### Data Type:
 Quantitative
 
-#### Author:
+### Author:
 Fabiana Freitas Mendes
 
-#### Topic Classification:
-Software Engineering
-
-#### Access
+### Access
 This material is available for research, teaching and study. 
 
-#### Data Collector
+### Data Collector
 Fabiana Freitas Mendes
 
-#### Survey timeline
+### Survey timeline
 This survey was executed from March 2018 to June 2020, as shown in the timeline bellow.
 
 Time | Survey phase
@@ -38,20 +35,20 @@ In order to provide feedback to the survey participants, we created a report for
 
 We received feedback for 15 of the 61 participants we sent a report to, discussing their experience in answering the survey. Some stated that they had never thought about how they make decisions before the survey. Others said that the survey helped them to think about factors that can influence their decisions. Some confirmed that the report describes their decision-making and personality characteristics accurately. 
 
-#### Nation
+### Nation
 Brazil
 
-#### Universe
+### Universe
 Professionals who work with software enngineering related activities, according to the following classification:
 * business-related activities
 * management-related activities 
 * technical-related activities
 * mixed
 
-#### Time Method 
+### Time Method 
 Cross-section
 
-#### Sampling Procedure
+### Sampling Procedure
 All the participants were main author's acquaintances; therefore, we used a **non-probabilistic convenience sample**. They were contacted via email or other online-messaging tools (such as Facebook and LinkedIn messengers). Participation in the survey was on a voluntary basis, and only those respondents who agreed to participate received a link to the data-collection instrument (an online questionnaire).
 
 We also executed **snowballing** in two different ways. We sent a message to the main author's acquaintances who did not comply with the criteria to select the survey population and we asked them to contact others who might also be willing to participate in the study. We also asked the main author's acquaintances who complied with the criteria and agreed to participate in the survey to contact others to participate in the survey. Therefore, we performed a **non-probabilistic snowballing**.
@@ -69,17 +66,17 @@ Part III|	63	| 46.38 % of the 138 who accepted the invitation
 Part IV	| 63	| 46.38 % of the 138 who accepted the invitation
 
 
-#### Collection Mode
+### Collection Mode
 Structured form 
 
-#### Data File Language
+### Data File Language
 Most to the data available is in English only, except the questionnaire which can be found in English and Brazilian Portuguese
 
-#### Number of Variables and Datapoints
+### Number of Variables and Datapoints
 * 47 variables
 * 120 datapoints for all variables except "Decision-Making Style" that has 63 datapoints
 
-#### Strategies to Deal with Potential Survey Errors
+### Strategies to Deal with Potential Survey Errors
 
 In terms of **coverage bias**, the main problem of this survey population is the geographical distribution. The whole survey population is Brazilian, although some of the participants work in other countries. Another coverage problem is that most of the survey population hold technical roles. These characteristics can impact the generalization power of the survey results.
 
@@ -92,17 +89,17 @@ The variable related to education level was changed after data collection; this 
 The **response error** is related to the accuracy of the response given. It relates to respondent comprehension and knowledge of the questions and their alternatives, as well as their sincerity in answering the questionnaire. During the pilot study, one of the goals was to assess the questionnaire's clarity and understandability. Furthermore, the researcher guaranteed the anonymity of the responses; in this way, we protected the survey participants from any repercussions that might result from an honest answer.
 
 
-#### Data Version
+### Data Version
 1.0
 
-#### Released Datasets
+### Released Datasets
 [2018-Brazilian-data](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Data/collected.data.xlsx) 
 
-#### Citation Requirement
+### Citation Requirement
 The material and their authors must be referred to in all publications and presentations in which the material is used. 
 
-#### Bibliographical Citation
+### Bibliographical Citation
 Mendes, F., Mendes, E., Salleh, N. (2021). A Survey on Personality and Decision-Making in Software Engineering [dataset]. Version 1.0. https://github.com/fabianafmendes/DMSxPersonality.
 
-#### Disclaimer
+### Disclaimer
 The original author of the material and the data archive are not responsible for the results and interpretations produced in the further use of the material.
