@@ -6,9 +6,6 @@ Decision-Making and Personality in Software Engineering
 ### Data Type:
 Quantitative
 
-### Author:
-Fabiana Freitas Mendes
-
 ### Access
 This material is available for research, teaching and study. 
 
@@ -52,11 +49,18 @@ We also executed **snowballing** in two different ways. We sent a message to the
 
 In total, 344 people were contacted, out of which 138 agreed to participate (40.12%). The survey was divided into four parts. Among those who agreed to participate, 102 answered only the first part (73.91%), and 63 participants answered all four parts of the survey (46.38%). The following table summarizes the sampling statistics.
 
+**General Numbers:**
+
 Description	| Number	| Percentage
 ------------|---------| ---------
 Received invitation	| 344	| -
 Accepted invitation	| 138	| 40.12% success rate
-Number of answers per questionnaire part||
+
+
+**Number of answers per questionnaire part:**
+
+Questionnaire Part	| Number	| Percentage
+--------------------|---------| ---------
 Part I	| 102	| 73.91% of the 138 who accepted the invitation
 Part II	| 74	| 53.62 % of the 138 who accepted the invitation
 Part III|	63	| 46.38 % of the 138 who accepted the invitation
