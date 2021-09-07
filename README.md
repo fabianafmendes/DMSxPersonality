@@ -15,6 +15,8 @@ Software development involves many activities, among which decision-making is an
 ## Publications:
 * Mendes, Fabiana (2021). Insights from personality and decision-making in software engineering context. Ph.D. Thesis. University of Oulu. ISBN: 9789526229423. http://urn.fi/urn:isbn:9789526229423.
 * Mendes, F., Mendes, E., Salleh, N., & Oivo, M. (2021). Insights on the relationship between decision-making style and personality in software engineering. Information and Software Technology, 136, 106586.https://doi.org/10.1016/j.infsof.2021.106586.
+* Mendes, F., Mendes, E., Salleh, N. The decision efficacy and personality in software engineering (temporary title). Manuscript is being written.
+* Mendes, F. and others. Gender differences on the decision-making in software Engineering context (temporary title). Manuscript is being written.
 
 ## Replication package
 Details about how to replicate this study:
