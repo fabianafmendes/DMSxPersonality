@@ -22,7 +22,7 @@ Software development involves many activities, among which decision-making is an
 ## Replication package
 Details about how to replicate this study:
 * [Survey Protocol](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Survey%20Protocol.pdf)
-* Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.docx) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.docx) languages
+* Questionnaires - available in [Brazilian Portuguese](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20Brazilian%20Portuguese.pdf) and [English](https://github.com/fabianafmendes/DMSxPersonality/blob/main/Protocol/Questionnaire%20in%20English.pdf) languages
 
 ## Data package
 Details about how to use the data we have already collected:
