@@ -69,7 +69,7 @@ more than 15| 15      | 14.7%
 **Number of valid cases** | **102** | -
 
 ### Decision-Making Frequency Variables
-#### Frequency of participation in a decision-making (DMF-P)
+#### Frequency of participation in decision-making (DMF-P)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:**
@@ -84,7 +84,7 @@ always	    | 20	     | 19.6%
 **Number of valid cases** | **102** | -
 
 
-#### Frequency of leading a decision-making (DMF-L)
+#### Frequency of leading decision-making (DMF-L)
 * **Scale:** ordinal
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:** 
@@ -98,7 +98,7 @@ very often	| 42	     | 41.2%
 always	    | 13	     | 12.7%	
 **Number of valid cases** | **102** | -
 
-#### Frequency of volunteering to lead a  decision-making (DMF-V)
+#### Frequency of volunteering to lead decision-making (DMF-V)
 * **Scale: ordinal**
 * **Possible values:**  1 = never; 2 = rarely; 2 = sometimes; 4 = very often; 5 = always
 * **Summary statistics:** 
@@ -115,7 +115,7 @@ always	    | 0	      | 0%
 ### Decision-Making Self-Efficacy Variables
 #### Affect Control Efficacy (ACE)
 * **Scale:** interval, bounded
-* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Possible values:** for each item in the questionnaire, the respondent can choose one number from 0 to 100.
 * **Formula to compute the ACE Score:** 
   * ACE_gross.score = sum of the value chosen for each ACE item in the questionnaire
   * ACE = ACE_gross.score/9
@@ -131,7 +131,7 @@ always	    | 0	      | 0%
 
 #### Analytical and Inferential Efficacy (AIE)
 * **Scale:** interval, bounded
-* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Possible values:** for each item in the questionnaire, the respondent can choose one number from 0 to 100.
 * **Formula to compute the AIE Score:**
   * AIE_gross.score = sum of the value chosen for each AIE item in the questionnaire
   * AIE = AIE_gross.score/11
@@ -147,7 +147,7 @@ always	    | 0	      | 0%
 
 #### Social Influence Efficacy (SIE)
 * **Scale:** interval, bounded
-* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Possible values:** for each item in the questionnaire, the respondent can choose one number from 0 to 100.
 * **Formula to compute the SIE Score:**
   * SIE_gross.score = sum of the value chosen for each SIE item in the questionnaire
   * SIE = SIE_gross.score/5
@@ -162,7 +162,7 @@ always	    | 0	      | 0%
 
 #### Thought Control Efficacy (TCE)
 * **Scale:** interval, bounded
-* **Possible values:** for each item in the questionnaire, the respodent can choose one a number from 0 to 100.
+* **Possible values:** for each item in the questionnaire, the respondent can choose one number from 0 to 100.
 * **Formula to compute the TCE Score:**
   * TCE_gross.score = sum of the value chosen for each TCE item in the questionnaire
   * TCE = TCE_gross.score/5
@@ -176,9 +176,64 @@ always	    | 0	      | 0%
   * Number of valid cases:	102
  
 
+### Agreement with the feasible set (AFS)
+* **Scale:** interval, bounded
+* **Possible values:** For each case in the questionnaire, the respondent can choose one of the following alternatives:
+
+Alternative | Value showed in the data file | Value added in the final score
+----------- |------------------------------ |-------------------------------
+AI  | 1 | 0
+AII | 2 | 1
+CI  | 3 | 5
+CII | 4 | 8
+GII | 5 | 10
+
+* **Formula to compute the AFS Score:** for each case in the questionnaire, check if the answer matches the feasible set provided following. If so, add one point to the final score of the respondent.
+
+ Case ID 	| Feasible Answers
+ -------- |-----------------
+1	 | AI	AII	CI	CII	GII
+2	 | AI	AII	CI	CII	GII
+3	 | AI	AII	CI	CII	GII
+4	 | AI	AII	CI	CII	GII
+5	 | CII	GII
+6	 | AI	AII	CI	CII	GII
+7	 | AI	AII	CI	CII	GII
+8	 | AI	AII	CI	CII	
+9	 | CII	
+10	|	CII	
+11	| AI	AII	CI	CII	
+12	| AII	CI	CII	
+13	| AI	AII	CI	CII	GII
+14	| AI	AII	CI	CII	
+15	| AII	CI	CII	GII
+16	| GII
+17	| AII	CI	CII	GII
+18	| GII
+19	|	CII	
+20	| AII	CI	CII	
+21	|	CI	CII	
+22	|		GII
+23	| AI	AII	CI	CII	GII
+24	|	GII
+25	|	CII	GII
+26	|	CII	
+27	| AI	AII	CI	CII	
+28	|		GII
+29	|		CII	
+30	|	GII
+
+* **Score Range:** 0-30
+* **Summary statistics:**
+  * Minimum:	13.00
+  * Maximum:	25.00
+  * Mean:	19.87
+  * Std. Deviation:	2.63
+  * Number of valid cases:	63
+
 ### Decision-Making Style (DMS)
 * **Scale:** interval, bounded
-* **Possible values:** for each case in the questionnaire, the respodent can choose one of the following alternatives: 
+* **Possible values:** for each case in the questionnaire, the respondent can choose one of the following alternatives: 
 
 Alternative | Value showed in the data file | Value added in the final score
 ----------- |------------------------------ |-------------------------------
